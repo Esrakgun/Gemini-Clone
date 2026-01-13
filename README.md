@@ -85,3 +85,18 @@ Her türlü geri bildirim, öneri veya iş birliği için benimle iletişime ge�
 ---
 
 > "Yapay zekâyı sadece kullanmak değil, onu anlamak ve yeniden kurgulamak gerekir."
+
+🌈 Slogan:
+Bir cümle yaz, fikrini görsele dönüştür.
+
+🧩 Not: Bu proje frontend ağırlıklı bir AI entegrasyon çalışmasıdır ve öğrenme + üretim odaklı geliştirilmiştir.
+
+
+---
+
+🖼️Görseller-Hikaye görünümü:
+
+
+https://github.com/user-attachments/assets/97ba8fc0-d3ad-4c33-9cf6-49c47c18ccdc
+
+
